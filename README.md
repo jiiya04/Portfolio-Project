@@ -18,3 +18,6 @@ Open `index.html` in your browser to view the portfolio.
 2. Open `index.html` in any web browser  
 3. No setup required
 
+## Screenshots
+![Home Page](screenshots/home.png)
+
